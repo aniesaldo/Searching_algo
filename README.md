@@ -1,2 +1,4 @@
 # Searching_algo
-This repo holds Sorting algorithms
+This repo holds Searching algorithms
+- Linear Search O(n)
+- Binary Search O(log(n))
